@@ -1,3 +1,6 @@
 # SQL_ZOO
 
-SQL_ZOO quiz as my pratice on SQL
+Exercises Completed from http://sqlzoo.net/
+
+SQL learned is good for the following database software:
+SQL Server, Oracle, MySQL, DB2, and PostgreSQL
